@@ -1,4 +1,4 @@
-# Hey, I'm Jared 👋
+# Hey, I'm Jared 🦖
 
 I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. I'm also interested in applied AI and product engineering.
 
@@ -17,21 +17,21 @@ I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Ne
 ## Stack
 
 `ml & data`  
-![PyTorch](https://img.shields.io/badge/PyTorch-064e3b?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-064e3b?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-064e3b?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-006d32?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-006d32?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-006d32?style=for-the-badge&logo=pandas&logoColor=white)
 
 `backend`  
-![Python](https://img.shields.io/badge/Python-16a34a?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-16a34a?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-16a34a?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-16a34a?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-26a641?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-26a641?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-26a641?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-26a641?style=for-the-badge&logo=supabase&logoColor=white)
 
 `frontend`  
-![TypeScript](https://img.shields.io/badge/TypeScript-22c55e?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-22c55e?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-22c55e?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-22c55e?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-39d353?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-39d353?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-39d353?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-39d353?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
