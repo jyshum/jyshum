@@ -1,9 +1,7 @@
 # Hey, I'm Jared 🦖
 
 I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js.  
-Interested in applied AI, product engineering, and shipping things that work.
-
-Currently building **REACH**, a startup outreach tool that matches ambitious builders to early-stage YC companies.
+Interested in applied AI and product engineering.
 
 ---
 
@@ -19,18 +17,25 @@ Currently building **REACH**, a startup outreach tool that matches ambitious bui
 
 ## Stack
 
+**`ml & data`**  
+![PyTorch](https://img.shields.io/badge/PyTorch-166534?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-166534?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-166534?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**`backend`**  
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-f97316?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-f97316?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-22c55e?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-f97316?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-22c55e?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-f97316?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-22c55e?style=for-the-badge&logo=supabase&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-f97316?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
+
+**`frontend`**  
+![TypeScript](https://img.shields.io/badge/TypeScript-166534?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-166534?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-166534?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-166534?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**`general`**  
+![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-22c55e?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
