@@ -1,19 +1,37 @@
-# Hey, I'm Jared 🦖
+# Hey, I'm Jared 👋
 
-I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. Interested in applied AI and product engineering.
+I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js.  
+Interested in applied AI, product engineering, and shipping things that work.
 
-## Featured Projects
+Currently building **REACH**, a startup outreach tool that matches ambitious builders to early-stage YC companies.
 
-**[SickNote](https://github.com/jyshum/SickNote)** — CNN ensemble for cough audio classification. 5-model ensemble trained on 2,300+ recordings, 0.73 AUC-ROC, Grad-CAM explainability, FastAPI serving, Next.js frontend. `PyTorch · torchaudio · FastAPI · Next.js`
+---
 
-**[UniPath AI](https://github.com/jyshum/UniPath)** — NLP pipeline and Reddit scraping agent for Canadian university admissions predictions. Two-layer tagger (keyword + spaCy fallback), ETL into SQLite, messy-input normalization across 40+ school name variants. `Python · spaCy · SQLAlchemy · Pandas`
+## Projects
 
-**[REACH](https://github.com/jyshum/reach)** — Full-stack outreach tool matching builders to YC startups with match reasoning and cold email guidance. Rule-based reachability scoring at MVP, ML classifier planned. `Next.js · FastAPI · Supabase · Tailwind`
+**[SickNote](https://github.com/jyshum/SickNote)** — CNN ensemble for cough audio classification. 5-model ensemble trained on 2,300+ recordings, 0.73 AUC-ROC, Grad-CAM explainability, FastAPI serving, Next.js frontend.
+
+**[UniPath AI](https://github.com/jyshum/UniPath)** — NLP pipeline and Reddit scraping agent for Canadian university admissions predictions. Two-layer tagger (keyword + spaCy fallback), ETL into SQLite, normalization across 40+ school name variants.
+
+**[REACH](https://github.com/jyshum/reach)** — Full-stack outreach tool matching builders to YC startups with match reasoning and cold email guidance. Rule-based reachability scoring at MVP, ML classifier planned.
+
+---
 
 ## Stack
 
-Python · TypeScript · PyTorch · FastAPI · Next.js · React · Tailwind · Supabase · Pandas · scikit-learn · Git
+![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-f97316?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-f97316?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-22c55e?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-f97316?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-22c55e?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-f97316?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-22c55e?style=for-the-badge&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-f97316?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
 
-## Links
+---
 
 [LinkedIn](https://www.linkedin.com/in/jaredyhshum/) · [jaredshum101@gmail.com](mailto:jaredshum101@gmail.com) · Vancouver, BC
