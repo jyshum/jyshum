@@ -2,8 +2,6 @@
 
 I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. Interested in applied AI, product engineering, and shipping things that work.
 
-Currently building **REACH**, a startup outreach tool that matches ambitious builders to early-stage YC companies.
-
 ## Featured Projects
 
 **[SickNote](https://github.com/jyshum/SickNote)** — CNN ensemble for cough audio classification. 5-model ensemble trained on 2,300+ recordings, 0.73 AUC-ROC, Grad-CAM explainability, FastAPI serving, Next.js frontend. `PyTorch · torchaudio · FastAPI · Next.js`
