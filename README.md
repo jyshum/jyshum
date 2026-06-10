@@ -36,11 +36,3 @@ I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Ne
 ---
 
 [LinkedIn](https://www.linkedin.com/in/jaredyhshum/) · [jaredshum101@gmail.com](mailto:jaredshum101@gmail.com) · Vancouver, BC
-
-**`general`**  
-![Java](https://img.shields.io/badge/Java-22c55e?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-22c55e?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/jaredyhshum/) · [jaredshum101@gmail.com](mailto:jaredshum101@gmail.com) · Vancouver, BC
