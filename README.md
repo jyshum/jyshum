@@ -1,6 +1,6 @@
 # Hey, I'm Jared 🦖
 
-I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. I'm also interested in applied AI and product engineering.
+I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. I also build websites for local companies as a side hustle.
 
 ---
 
