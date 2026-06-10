@@ -1,6 +1,6 @@
-# Hey, I'm Jared 🦖
+# Hey, I'm Jared 👋
 
-I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. I'm also interested in applied AI, product engineering, and shipping things that work.
+I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Next.js. I'm also interested in applied AI and product engineering.
 
 ---
 
@@ -22,10 +22,10 @@ I build ML pipelines and full-stack tools — mostly in PyTorch, FastAPI, and Ne
 ![Pandas](https://img.shields.io/badge/Pandas-064e3b?style=for-the-badge&logo=pandas&logoColor=white)
 
 `backend`  
-![Python](https://img.shields.io/badge/Python-166534?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-166534?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-166534?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-16a34a?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-16a34a?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-16a34a?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-16a34a?style=for-the-badge&logo=supabase&logoColor=white)
 
 `frontend`  
 ![TypeScript](https://img.shields.io/badge/TypeScript-22c55e?style=for-the-badge&logo=typescript&logoColor=white)
