@@ -3,7 +3,7 @@
 
 
 Exploring the world through tech — mostly in Python, TypeScript, and SQL.  
-I also run a GEO/SEO agency at [victoryvelocity.ca](https://www.victoryvelocity.ca/)
+I also run a GEO/SEO startup internatioanlly at [victoryvelocity.ca](https://www.victoryvelocity.ca/)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredyhshum/)! My DMs are open. 
 
