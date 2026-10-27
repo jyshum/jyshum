@@ -4,7 +4,7 @@
 
 Exploring the world through tech — mostly in Python, Docker and PostgreSQL.
 
-I also run a GEO/SEO startup internatioanlly at [victoryvelocity.ca](https://www.victoryvelocity.ca/)
+I also run a GEO/SEO startup at [victoryvelocity.ca](https://www.victoryvelocity.ca/)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredyhshum/)! My DMs are open. 
 
