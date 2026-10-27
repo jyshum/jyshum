@@ -2,7 +2,7 @@
 # Hey, I'm Jared 🦖
 
 
-Exploring the world through tech — mostly in Python, TypeScript, and SQL.  
+Exploring the world through tech — mostly in Python & PostgreSQL
 I also run a GEO/SEO startup internatioanlly at [victoryvelocity.ca](https://www.victoryvelocity.ca/)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredyhshum/)! My DMs are open. 
