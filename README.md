@@ -1,5 +1,4 @@
-
-# Hey, I'm Jared <img src="croc/croc.gif" width="126" height="33" alt="A pixel crocodile that sleeps, sits up, and roars">
+# Hey, I'm Jared <sub><img align="middle" src="croc/croc.gif" width="126" height="33" alt="A pixel crocodile that sleeps, sits up, and roars"></sub>
 
 
 Exploring the world through tech — mostly in Python, Docker and PostgreSQL.
@@ -9,4 +8,3 @@ I also run a GEO/SEO startup at [victoryvelocity.ca](https://www.victoryvelocity
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaredyhshum/)! My DMs are open. 
 
 [jaredshum101@gmail.com](mailto:jaredshum101@gmail.com) · [jaredshum.ca](https://www.jaredshum.ca/) · Vancouver, BC
-
