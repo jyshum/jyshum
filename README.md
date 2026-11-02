@@ -1,5 +1,5 @@
 
-# Hey, I'm Jared <img align="middle" src="croc/croc.gif" width="126" height="33" alt="A pixel crocodile that sleeps, sits up, and roars">
+# Hey, I'm Jared <img src="croc/croc.gif" width="126" height="33" alt="A pixel crocodile that sleeps, sits up, and roars">
 
 
 Exploring the world through tech — mostly in Python, Docker and PostgreSQL.
