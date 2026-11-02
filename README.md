@@ -1,4 +1,4 @@
-# Hey, I'm Jared! <img align="middle" src="croc/croc.gif" width="190" height="44" alt="A pixel crocodile that sleeps, sits up, and roars">
+# Hey, I'm Jared! <img align="middle" src="croc/croc.gif" width="150" height="44" alt="A pixel crocodile that sleeps, sits up, and roars">
 
 
 Exploring the world through tech — mostly in Python, Docker and PostgreSQL.
